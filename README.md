@@ -39,9 +39,20 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 ## 📦 存储库
 
-| 仓库 | 描述 | 语言 | 最近提交 |
-| :--- | :--- | :---: | :---: |
-| [**Steam-SD**](https://github.com/ZzicoChen/Steam-SD) | Steam 商店页 / 愿望单显示历史最低价 | 🔵 JavaScript | [![Last commit](https://img.shields.io/github/last-commit/ZzicoChen/Steam-SD?style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen/Steam-SD/commits) |
+<table>
+<tr>
+<th width="170" align="left">仓库</th>
+<th align="left">描述</th>
+<th width="120" align="center">语言</th>
+<th width="130" align="center">最近提交</th>
+</tr>
+<tr>
+<td width="170"><a href="https://github.com/ZzicoChen/Steam-SD"><b>Steam-SD</b></a></td>
+<td>Steam 商店页 / 愿望单显示历史最低价</td>
+<td width="120" align="center">🔵 JavaScript</td>
+<td width="130" align="center"><a href="https://github.com/ZzicoChen/Steam-SD/commits"><img src="https://img.shields.io/github/last-commit/ZzicoChen/Steam-SD?style=flat-square&color=3fb950&labelColor=1f2328" alt="Last commit"></a></td>
+</tr>
+</table>
 
 > 列表只收录我自己维护的仓库；Fork 与实验性项目放在 [Repositories](https://github.com/ZzicoChen?tab=repositories) 标签页里。
 
@@ -73,7 +84,12 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 </td>
 
-存储库表格新增一行：
-| [**仓库名**](https://github.com/ZzicoChen/仓库名) | 描述 | 🔵 语言 | [![Last commit](https://img.shields.io/github/last-commit/ZzicoChen/仓库名?style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen/仓库名/commits) |
+存储库表格新增一行（复制 <tr> 这一段即可）：
+<tr>
+<td width="170"><a href="https://github.com/ZzicoChen/仓库名"><b>仓库名</b></a></td>
+<td>描述</td>
+<td width="120" align="center">🔵 语言</td>
+<td width="130" align="center"><a href="https://github.com/ZzicoChen/仓库名/commits"><img src="https://img.shields.io/github/last-commit/ZzicoChen/仓库名?style=flat-square&color=3fb950&labelColor=1f2328" alt="Last commit"></a></td>
+</tr>
 ============================================================
 -->
