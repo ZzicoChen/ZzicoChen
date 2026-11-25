@@ -18,13 +18,13 @@
 <tr>
 <td width="50%" colspan="2" valign="top">
 
-<a href="https://github.com/ZzicoChen/Music-Tag-Studio"><b>MusicTagStudio</b></a> &nbsp;<code>Public</code> &nbsp;<code>v1.0 正式版</code>
+<a href="https://github.com/ZzicoChen/MusicTagStudio"><b>MusicTagStudio</b></a> &nbsp;<code>Public</code> &nbsp;<code>v1.0 正式版</code>
 
 Windows 音乐标签批量编辑器：批量改标签、封面搜索与替换、歌词搜索 / 编码修正、跨源匹配、撤销备份；数据与缓存跟着程序文件夹走，内置三路镜像检测更新。
 
 🔵 Python &nbsp;·&nbsp; PySide6 &nbsp;·&nbsp; Windows x64 &nbsp;·&nbsp; 安装版 + 便携版
 
-[⬇ 下载 Release](https://github.com/ZzicoChen/Music-Tag-Studio/releases/latest) &nbsp;|&nbsp; [📖 阅读说明](https://github.com/ZzicoChen/Music-Tag-Studio#readme)
+[⬇ 下载 Release](https://github.com/ZzicoChen/MusicTagStudio/releases/latest) &nbsp;|&nbsp; [📖 阅读说明](https://github.com/ZzicoChen/MusicTagStudio#readme)
 
 </td>
 </tr>
@@ -60,10 +60,10 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 <th width="130" align="center">最近提交</th>
 </tr>
 <tr>
-<td width="170"><a href="https://github.com/ZzicoChen/Music-Tag-Studio"><b>MusicTagStudio</b></a></td>
+<td width="170"><a href="https://github.com/ZzicoChen/MusicTagStudio"><b>MusicTagStudio</b></a></td>
 <td>Windows 音乐标签批量编辑器（PySide6，v1.0 正式版）</td>
 <td width="140" align="center">🔵&nbsp;Python</td>
-<td width="130" align="center"><a href="https://github.com/ZzicoChen/Music-Tag-Studio/commits"><img src="https://img.shields.io/github/last-commit/ZzicoChen/Music-Tag-Studio?style=flat-square&color=3fb950&labelColor=1f2328" alt="Last commit"></a></td>
+<td width="130" align="center"><a href="https://github.com/ZzicoChen/MusicTagStudio/commits"><img src="https://img.shields.io/github/last-commit/ZzicoChen/MusicTagStudio?style=flat-square&color=3fb950&labelColor=1f2328" alt="Last commit"></a></td>
 </tr>
 <tr>
 <td width="170"><a href="https://github.com/ZzicoChen/Steam-SD"><b>Steam-SD</b></a></td>
