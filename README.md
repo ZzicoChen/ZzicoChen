@@ -16,29 +16,29 @@
 
 <table>
 <tr>
-<td width="50%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
-<a href="https://github.com/ZzicoChen/MusicTagStudio"><b>MusicTagStudio</b></a> &nbsp;<code>Public</code> &nbsp;<code>v1.0 正式版</code>
+<a href="https://github.com/ZzicoChen/MusicTagStudio"><b>MusicTagStudio</b></a> &nbsp;<code>Public</code>
 
-Windows 音乐标签批量编辑器：批量改标签、封面搜索与替换、歌词搜索 / 编码修正、跨源匹配、撤销备份；数据与缓存跟着程序文件夹走，内置三路镜像检测更新。
+Windows 音乐标签批量编辑器：批量改标签、封面搜索与替换、歌词搜索 / 编码修正、跨源匹配、撤销备份；数据与缓存跟着程序文件夹走。
 
-🔵 Python &nbsp;·&nbsp; PySide6 &nbsp;·&nbsp; Windows x64 &nbsp;·&nbsp; 安装版 + 便携版
+🔵 Python &nbsp;·&nbsp; PySide6 &nbsp;·&nbsp; Windows x64
 
-[⬇ 下载 Release](https://github.com/ZzicoChen/MusicTagStudio/releases/latest) &nbsp;|&nbsp; [📖 阅读说明](https://github.com/ZzicoChen/MusicTagStudio#readme)
+[下载](https://github.com/ZzicoChen/MusicTagStudio/releases/latest) &nbsp;|&nbsp; [说明](https://github.com/ZzicoChen/MusicTagStudio#readme)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <a href="https://github.com/ZzicoChen/Steam-SD"><b>Steam-SD</b></a> &nbsp;<code>Public</code>
 
-Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最低价与当前最低价（仅 Steam 渠道，货币跟随商店地区）
+Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最低价与当前最低价（仅 Steam 渠道，货币跟随商店地区）。
 
 🔵 JavaScript &nbsp;·&nbsp; UserScript &nbsp;·&nbsp; 零依赖
 
+[说明](https://github.com/ZzicoChen/Steam-SD#readme)
+
 </td>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 <b>预留位</b> &nbsp;<code>Coming soon</code>
 
