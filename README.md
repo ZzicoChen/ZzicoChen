@@ -2,11 +2,11 @@
 
 # Hi, I'm Zzico 👋
 
-**Steam 用户脚本 · 桌面小工具 · 长期折腾型开发者**
+**桌面小工具 · Steam 用户脚本 · 长期折腾型开发者**
 
 ![Profile views](https://komarev.com/ghpvc/?username=ZzicoChen&label=Profile%20views&style=flat-square&color=3fb950)
 ![Status](https://img.shields.io/badge/Status-%E6%8A%98%E8%85%BE%E4%B8%AD-3fb950?style=flat-square&labelColor=1f2328)
-![Focus](https://img.shields.io/badge/Focus-Steam%20%26%20Windows-58a6ff?style=flat-square&labelColor=1f2328)
+![Focus](https://img.shields.io/badge/Focus-Windows%20%26%20Steam-58a6ff?style=flat-square&labelColor=1f2328)
 
 </div>
 
@@ -15,6 +15,19 @@
 ## 🧷 置顶
 
 <table>
+<tr>
+<td width="100%" valign="top">
+
+<a href="https://github.com/ZzicoChen/Music-Tag-Studio"><b>MusicTagStudio</b></a> &nbsp;<code>Public</code> &nbsp;<code>v1.0 正式版</code>
+
+Windows 音乐标签批量编辑器：批量改标签、封面搜索与替换、歌词搜索 / 编码修正、跨源匹配、撤销备份；数据与缓存跟着程序文件夹走，内置三路镜像检测更新。
+
+🔵 Python &nbsp;·&nbsp; PySide6 &nbsp;·&nbsp; Windows x64 &nbsp;·&nbsp; 安装版 + 便携版
+
+[⬇ 下载 Release](https://github.com/ZzicoChen/Music-Tag-Studio/releases/latest) &nbsp;|&nbsp; [📖 阅读说明](https://github.com/ZzicoChen/Music-Tag-Studio#readme)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -29,7 +42,7 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 <b>预留位</b> &nbsp;<code>Coming soon</code>
 
-下一个仓库上线后补到这里，两列卡片版型已经留好位置。
+下一个仓库上线后补到这里，版型已经留好位置。
 
 ⚪ — &nbsp;·&nbsp; — &nbsp;·&nbsp; —
 
@@ -47,6 +60,12 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 <th width="130" align="center">最近提交</th>
 </tr>
 <tr>
+<td width="170"><a href="https://github.com/ZzicoChen/Music-Tag-Studio"><b>MusicTagStudio</b></a></td>
+<td>Windows 音乐标签批量编辑器（PySide6，v1.0 正式版）</td>
+<td width="140" align="center">🔵&nbsp;Python</td>
+<td width="130" align="center"><a href="https://github.com/ZzicoChen/Music-Tag-Studio/commits"><img src="https://img.shields.io/github/last-commit/ZzicoChen/Music-Tag-Studio?style=flat-square&color=3fb950&labelColor=1f2328" alt="Last commit"></a></td>
+</tr>
+<tr>
 <td width="170"><a href="https://github.com/ZzicoChen/Steam-SD"><b>Steam-SD</b></a></td>
 <td>Steam 商店页 / 愿望单显示历史最低价</td>
 <td width="140" align="center">🔵&nbsp;JavaScript</td>
@@ -60,8 +79,8 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 ## 🌱 最近在做
 
+- **MusicTagStudio** —— 本地音乐标签编辑器（PySide6，Windows x64），v1.0 已发正式版，继续抠边角体验
 - **Steam-SD** —— Steam 商店页 / 愿望单的历史最低价标记，纯用户脚本、零依赖
-- **Music Tag Studio** —— 本地音乐标签编辑器（PySide6，Windows 64 位）
 - 折腾 Windows 个性化：任务栏美化、桌面小工具
 
 ## 📮 找到我
@@ -69,9 +88,11 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 - 有 Bug 或想法：直接在你关心的那个仓库开 Issue，我会看
 - 想聊技术：Issue 里 @ 我即可
 
+<div align="center"><sub>README 版型持续更新</sub></div>
+
 <!--
 ============================================================
-置顶卡片模板（复制一段 <td> … </td> 就能加新卡片，两列自动排）
+置顶卡片模板（复制一段 <td> … </td> 就能加新卡片）
 <td width="50%" valign="top">
 
 <a href="https://github.com/ZzicoChen/仓库名"><b>仓库名</b></a> &nbsp;<code>Public</code>
