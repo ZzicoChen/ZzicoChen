@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" colspan="2" valign="top">
 
 <a href="https://github.com/ZzicoChen/Music-Tag-Studio"><b>MusicTagStudio</b></a> &nbsp;<code>Public</code> &nbsp;<code>v1.0 正式版</code>
 
