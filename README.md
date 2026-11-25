@@ -4,9 +4,9 @@
 
 **Steam 用户脚本 · 桌面小工具 · 长期折腾型开发者**
 
-[![Followers](https://img.shields.io/github/followers/ZzicoChen?label=Followers&style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen?tab=followers)
-[![Stars](https://img.shields.io/github/stars/ZzicoChen?affiliations=OWNER&label=Stars&style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=ZzicoChen&label=Profile%20views&style=flat-square&color=3fb950)](https://github.com/ZzicoChen)
+![Profile views](https://komarev.com/ghpvc/?username=ZzicoChen&label=Profile%20views&style=flat-square&color=3fb950)
+![Status](https://img.shields.io/badge/Status-%E6%8A%98%E8%85%BE%E4%B8%AD-3fb950?style=flat-square&labelColor=1f2328)
+![Focus](https://img.shields.io/badge/Focus-Steam%20%26%20Windows-58a6ff?style=flat-square&labelColor=1f2328)
 
 </div>
 
@@ -22,14 +22,14 @@
 
 Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最低价与当前最低价（仅 Steam 渠道，货币跟随商店地区）
 
-🔵 JavaScript &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/ZzicoChen/Steam-SD?style=flat-square&label=%E2%98%86&color=3fb950&labelColor=1f2328) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/ZzicoChen/Steam-SD?style=flat-square&label=%E2%91%81&color=3fb950&labelColor=1f2328)
+🔵 JavaScript &nbsp;·&nbsp; UserScript &nbsp;·&nbsp; 零依赖
 
 </td>
 <td width="50%" valign="top">
 
-<b>下一个项目</b> &nbsp;<code>Coming soon</code>
+<b>预留位</b> &nbsp;<code>Coming soon</code>
 
-新仓库上线后会补到这里，版型已经留好位置。
+下一个仓库上线后补到这里，两列卡片版型已经留好位置。
 
 ⚪ — &nbsp;·&nbsp; — &nbsp;·&nbsp; —
 
@@ -39,9 +39,9 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 ## 📦 存储库
 
-| 仓库 | 描述 | 语言 | Stars | 更新 |
-| :--- | :--- | :---: | :---: | :---: |
-| [**Steam-SD**](https://github.com/ZzicoChen/Steam-SD) | Steam 商店页 / 愿望单显示历史最低价 | 🔵 JavaScript | ![Stars](https://img.shields.io/github/stars/ZzicoChen/Steam-SD?style=flat-square&color=3fb950&labelColor=1f2328) | [![Last commit](https://img.shields.io/github/last-commit/ZzicoChen/Steam-SD?style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen/Steam-SD/commits) |
+| 仓库 | 描述 | 语言 | 最近提交 |
+| :--- | :--- | :---: | :---: |
+| [**Steam-SD**](https://github.com/ZzicoChen/Steam-SD) | Steam 商店页 / 愿望单显示历史最低价 | 🔵 JavaScript | [![Last commit](https://img.shields.io/github/last-commit/ZzicoChen/Steam-SD?style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen/Steam-SD/commits) |
 
 > 列表只收录我自己维护的仓库；Fork 与实验性项目放在 [Repositories](https://github.com/ZzicoChen?tab=repositories) 标签页里。
 
@@ -49,8 +49,8 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 ## 🌱 最近在做
 
-- **Steam-SD** —— Steam 商店页/愿望单的历史最低价标记，纯用户脚本、零依赖
-- **MusicTag Studio** —— 本地音乐标签编辑器（PySide6，Windows 64 位）
+- **Steam-SD** —— Steam 商店页 / 愿望单的历史最低价标记，纯用户脚本、零依赖
+- **Music Tag Studio** —— 本地音乐标签编辑器（PySide6，Windows 64 位）
 - 折腾 Windows 个性化：任务栏美化、桌面小工具
 
 ## 📮 找到我
@@ -69,11 +69,11 @@ Steam 游戏历史最低价格：在 Steam 商店页与愿望单显示历史最�
 
 一句话描述
 
-🔵 语言 &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/ZzicoChen/仓库名?style=flat-square&label=%E2%98%86&color=3fb950&labelColor=1f2328) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/ZzicoChen/仓库名?style=flat-square&label=%E2%91%81&color=3fb950&labelColor=1f2328)
+🔵 语言 &nbsp;·&nbsp; 备注 &nbsp;·&nbsp; 备注
 
 </td>
 
 存储库表格新增一行：
-| [**仓库名**](https://github.com/ZzicoChen/仓库名) | 描述 | 🔵 语言 | ![Stars](https://img.shields.io/github/stars/ZzicoChen/仓库名?style=flat-square&color=3fb950&labelColor=1f2328) | [![Last commit](https://img.shields.io/github/last-commit/ZzicoChen/仓库名?style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen/仓库名/commits) |
+| [**仓库名**](https://github.com/ZzicoChen/仓库名) | 描述 | 🔵 语言 | [![Last commit](https://img.shields.io/github/last-commit/ZzicoChen/仓库名?style=flat-square&color=3fb950&labelColor=1f2328)](https://github.com/ZzicoChen/仓库名/commits) |
 ============================================================
 -->
